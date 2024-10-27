@@ -1,0 +1,51 @@
+name: Deploy Resourcepack to Edenor Arena
+
+on:
+  push:
+    branches:
+      - master
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Compress resourcepack directory
+        run: |
+          zip -r arena.zip Pack
+          FILESIZE=$(wc -c < arena.zip)
+          if [ $FILESIZE -gt 262144000 ]; then # 250 MiB in bytes
+            echo "Error: Resourcepack size exceeds 250 MiB limit."
+            exit 1
+          fi
+
+      - name: Calculate SHA1 checksum
+        run: |
+          SHA1=$(sha1sum arena.zip | cut -d ' ' -f 1 | tr '[:upper:]' '[:lower:]')
+          echo "SHA1_CHECKSUM=$SHA1" >> $GITHUB_ENV
+
+      - name: Deploy to remote server
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.REMOTE_HOST }}
+          username: ${{ secrets.REMOTE_USERNAME }}
+          key: ${{ secrets.REMOTE_SSH_KEY }}
+          port: ${{ secrets.REMOTE_PORT }}
+          source: "arena.zip"
+          target: "/var/www/files/"
+
+      - name: Update server.properties
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.REMOTE_HOST }}
+          username: ${{ secrets.REMOTE_USERNAME }}
+          key: ${{ secrets.REMOTE_SSH_KEY }}
+          port: ${{ secrets.REMOTE_PORT }}
+          script: |
+            sed -i "s/resource-pack-sha1=.*/resource-pack-sha1=${{ env.SHA1_CHECKSUM }}/" /var/edenor/Arena/server.properties
