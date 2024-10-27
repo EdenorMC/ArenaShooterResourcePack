@@ -1,0 +1,338 @@
+{
+  "arena.announce.en.1_minute": {
+    "sounds": [
+      "arena/announce/en/1_minute"
+    ],
+    "subtitle": "1_minute"
+  },
+  "arena.announce.en.5_minute": {
+    "sounds": [
+      "arena/announce/en/5_minute"
+    ],
+    "subtitle": "5_minute"
+  },
+  "arena.announce.en.excellent": {
+    "sounds": [
+      "arena/announce/en/excellent"
+    ],
+    "subtitle": "excellent"
+  },
+  "arena.announce.en.fight": {
+    "sounds": [
+      "arena/announce/en/fight"
+    ],
+    "subtitle": "fight"
+  },
+  "arena.announce.en.holyshit": {
+    "sounds": [
+      "arena/announce/en/holyshit"
+    ],
+    "subtitle": "holyshit"
+  },
+  "arena.announce.en.humiliation": {
+    "sounds": [
+      "arena/announce/en/humiliation"
+    ],
+    "subtitle": "humiliation"
+  },
+  "arena.announce.en.impressive": {
+    "sounds": [
+      "arena/announce/en/impressive"
+    ],
+    "subtitle": "impressive"
+  },
+  "arena.announce.en.lostlead": {
+    "sounds": [
+      "arena/announce/en/lostlead"
+    ],
+    "subtitle": "lostlead"
+  },
+  "arena.announce.en.one": {
+    "sounds": [
+      "arena/announce/en/one"
+    ],
+    "subtitle": "one"
+  },
+  "arena.announce.en.taken_lead": {
+    "sounds": [
+      "arena/announce/en/taken_lead"
+    ],
+    "subtitle": "taken_lead"
+  },
+  "arena.announce.en.tied_lead": {
+    "sounds": [
+      "arena/announce/en/tied_lead"
+    ],
+    "subtitle": "tied_lead"
+  },
+  "arena.announce.en.three": {
+    "sounds": [
+      "arena/announce/en/three"
+    ],
+    "subtitle": "three"
+  },
+  "arena.announce.en.two": {
+    "sounds": [
+      "arena/announce/en/two"
+    ],
+    "subtitle": "two"
+  },
+  "arena.announce.et.1_minute": {
+    "sounds": [
+      "arena/announce/et/1_minute"
+    ],
+    "subtitle": "1_minute"
+  },
+  "arena.announce.et.5_minute": {
+    "sounds": [
+      "arena/announce/et/5_minute"
+    ],
+    "subtitle": "5_minute"
+  },
+  "arena.announce.et.excellent": {
+    "sounds": [
+      "arena/announce/et/excellent"
+    ],
+    "subtitle": "excellent"
+  },
+  "arena.announce.et.fight": {
+    "sounds": [
+      "arena/announce/et/fight"
+    ],
+    "subtitle": "fight"
+  },
+  "arena.announce.et.holyshit": {
+    "sounds": [
+      "arena/announce/et/holyshit"
+    ],
+    "subtitle": "holyshit"
+  },
+  "arena.announce.et.humiliation": {
+    "sounds": [
+      "arena/announce/et/humiliation"
+    ],
+    "subtitle": "humiliation"
+  },
+  "arena.announce.et.impressive": {
+    "sounds": [
+      "arena/announce/et/impressive"
+    ],
+    "subtitle": "impressive"
+  },
+  "arena.announce.et.lostlead": {
+    "sounds": [
+      "arena/announce/et/lostlead"
+    ],
+    "subtitle": "lostlead"
+  },
+  "arena.announce.et.one": {
+    "sounds": [
+      "arena/announce/et/one"
+    ],
+    "subtitle": "one"
+  },
+  "arena.announce.et.taken_lead": {
+    "sounds": [
+      "arena/announce/et/taken_lead"
+    ],
+    "subtitle": "taken_lead"
+  },
+  "arena.announce.et.tied_lead": {
+    "sounds": [
+      "arena/announce/et/tied_lead"
+    ],
+    "subtitle": "tied_lead"
+  },
+  "arena.announce.et.three": {
+    "sounds": [
+      "arena/announce/et/three"
+    ],
+    "subtitle": "three"
+  },
+  "arena.announce.et.two": {
+    "sounds": [
+      "arena/announce/et/two"
+    ],
+    "subtitle": "two"
+  },
+  "arena.announce.ru.1_minute": {
+    "sounds": [
+      "arena/announce/ru/1_minute"
+    ],
+    "subtitle": "1_minute"
+  },
+  "arena.announce.ru.5_minute": {
+    "sounds": [
+      "arena/announce/ru/5_minute"
+    ],
+    "subtitle": "5_minute"
+  },
+  "arena.announce.ru.excellent": {
+    "sounds": [
+      "arena/announce/ru/excellent"
+    ],
+    "subtitle": "excellent"
+  },
+  "arena.announce.ru.fight": {
+    "sounds": [
+      "arena/announce/ru/fight"
+    ],
+    "subtitle": "fight"
+  },
+  "arena.announce.ru.holyshit": {
+    "sounds": [
+      "arena/announce/ru/holyshit"
+    ],
+    "subtitle": "holyshit"
+  },
+  "arena.announce.ru.humiliation": {
+    "sounds": [
+      "arena/announce/ru/humiliation"
+    ],
+    "subtitle": "humiliation"
+  },
+  "arena.announce.ru.impressive": {
+    "sounds": [
+      "arena/announce/ru/impressive"
+    ],
+    "subtitle": "impressive"
+  },
+  "arena.announce.ru.lostlead": {
+    "sounds": [
+      "arena/announce/ru/lostlead"
+    ],
+    "subtitle": "lostlead"
+  },
+  "arena.announce.ru.one": {
+    "sounds": [
+      "arena/announce/ru/one"
+    ],
+    "subtitle": "one"
+  },
+  "arena.announce.ru.taken_lead": {
+    "sounds": [
+      "arena/announce/ru/taken_lead"
+    ],
+    "subtitle": "taken_lead"
+  },
+  "arena.announce.ru.tied_lead": {
+    "sounds": [
+      "arena/announce/ru/tied_lead"
+    ],
+    "subtitle": "tied_lead"
+  },
+  "arena.announce.ru.three": {
+    "sounds": [
+      "arena/announce/ru/three"
+    ],
+    "subtitle": "three"
+  },
+  "arena.announce.ru.two": {
+    "sounds": [
+      "arena/announce/ru/two"
+    ],
+    "subtitle": "two"
+  },
+  "arena.weapon.am_pick": {
+    "sounds": [
+      "arena/weapon/am_pick"
+    ],
+    "subtitle": "ammo pickup"
+  },
+  "arena.weapon.bu_pick": {
+    "sounds": [
+      "arena/weapon/bu_pick"
+    ],
+    "subtitle": "buff pickup"
+  },
+  "arena.weapon.we_pick": {
+    "sounds": [
+      "arena/weapon/we_pick"
+    ],
+    "subtitle": "weapon pickup"
+  },
+  "arena.weapon.protect": {
+    "sounds": [
+      "arena/weapon/protect"
+    ],
+    "subtitle": "major buff pickup"
+  },
+  "arena.weapon.hit": {
+    "sounds": [
+      "arena/weapon/hit"
+    ],
+    "subtitle": "hitsound"
+  },
+  "arena.weapon.noammo": {
+    "sounds": [
+      "arena/weapon/noammo"
+    ],
+    "subtitle": "noammo"
+  },
+  "arena.weapon.machine_fire": {
+    "sounds": [
+      "arena/weapon/machine_fire"
+    ],
+    "subtitle": "machine_fire"
+  },
+  "arena.weapon.rail_fire": {
+    "sounds": [
+      "arena/weapon/rail_fire"
+    ],
+    "subtitle": "rail_fire"
+  },
+  "arena.weapon.rocket_fire": {
+    "sounds": [
+      "arena/weapon/rocket_fire"
+    ],
+    "subtitle": "rocket_fire"
+  },
+  "arena.weapon.rocket_det": {
+    "sounds": [
+      "arena/weapon/rocket_det"
+    ],
+    "subtitle": "rocket_det"
+  },
+  "arena.weapon.ssg_fire": {
+    "sounds": [
+      "arena/weapon/ssg_fire"
+    ],
+    "subtitle": "ssg_fire"
+  },
+  "arena.weapon.plasma_fire": {
+    "sounds": [
+      "arena/weapon/plasma_fire"
+    ],
+    "subtitle": "plasma_fire"
+  },
+  "arena.weapon.lg_fire": {
+  "sounds": [
+    "arena/weapon/lg_fire"
+  ],
+  "subtitle": "lg_fire"
+  },
+  "arena.weapon.plasma_hit": {
+    "sounds": [
+      "arena/weapon/plasma_hit"
+    ],
+    "subtitle": "plasma_hit"
+  },
+  "arena.weapon.bfg_fire": {
+  "sounds": [
+    "arena/weapon/bfg_fire"
+  ],
+  "subtitle": "bfg_fire"
+  },
+  "arena.weapon.bfg_hit": {
+    "sounds": [
+      "arena/weapon/bfg_hit"
+    ],
+    "subtitle": "bfg_hit"
+  },
+  "arena.misc.pad": {
+    "sounds": [
+      "arena/misc/pad"
+    ],
+    "subtitle": "pad"
+  }
+}
