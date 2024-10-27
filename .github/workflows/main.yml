@@ -18,7 +18,9 @@ jobs:
 
       - name: Compress resourcepack directory
         run: |
-          zip -r arena.zip Pack
+          cd Pack
+          zip -r ../arena.zip .
+          cd ..
           FILESIZE=$(wc -c < arena.zip)
           if [ $FILESIZE -gt 262144000 ]; then # 250 MiB in bytes
             echo "Error: Resourcepack size exceeds 250 MiB limit."
