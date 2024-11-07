@@ -27,11 +27,6 @@ jobs:
             exit 1
           fi
 
-      - name: Calculate SHA1 checksum
-        run: |
-          SHA1=$(sha1sum arena.zip | cut -d ' ' -f 1 | tr '[:upper:]' '[:lower:]')
-          echo "SHA1_CHECKSUM=$SHA1" >> $GITHUB_ENV
-
       - name: Deploy to remote server
         uses: appleboy/scp-action@master
         with:
