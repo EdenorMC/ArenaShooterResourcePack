@@ -41,13 +41,3 @@ jobs:
           port: ${{ secrets.REMOTE_PORT }}
           source: "arena.zip"
           target: "/var/www/files/"
-
-      - name: Update server.properties
-        uses: appleboy/ssh-action@master
-        with:
-          host: ${{ secrets.REMOTE_HOST }}
-          username: ${{ secrets.REMOTE_USERNAME }}
-          key: ${{ secrets.REMOTE_SSH_KEY }}
-          port: ${{ secrets.REMOTE_PORT }}
-          script: |
-            sed -i "s/resource-pack-sha1=.*/resource-pack-sha1=${{ env.SHA1_CHECKSUM }}/" /var/edenor/Arena/server.properties
