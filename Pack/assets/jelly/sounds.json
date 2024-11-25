@@ -233,6 +233,84 @@
     ],
     "subtitle": "two"
   },
+  "arena.announce.uk.1_minute": {
+    "sounds": [
+      "arena/announce/uk/1_minute"
+    ],
+    "subtitle": "1_minute"
+  },
+  "arena.announce.uk.5_minute": {
+    "sounds": [
+      "arena/announce/uk/5_minute"
+    ],
+    "subtitle": "5_minute"
+  },
+  "arena.announce.uk.excellent": {
+    "sounds": [
+      "arena/announce/uk/excellent"
+    ],
+    "subtitle": "excellent"
+  },
+  "arena.announce.uk.fight": {
+    "sounds": [
+      "arena/announce/uk/fight"
+    ],
+    "subtitle": "fight"
+  },
+  "arena.announce.uk.holyshit": {
+    "sounds": [
+      "arena/announce/uk/holyshit"
+    ],
+    "subtitle": "holyshit"
+  },
+  "arena.announce.uk.humiliation": {
+    "sounds": [
+      "arena/announce/uk/humiliation"
+    ],
+    "subtitle": "humiliation"
+  },
+  "arena.announce.uk.impressive": {
+    "sounds": [
+      "arena/announce/uk/impressive"
+    ],
+    "subtitle": "impressive"
+  },
+  "arena.announce.uk.lostlead": {
+    "sounds": [
+      "arena/announce/uk/lostlead"
+    ],
+    "subtitle": "lostlead"
+  },
+  "arena.announce.uk.one": {
+    "sounds": [
+      "arena/announce/uk/one"
+    ],
+    "subtitle": "one"
+  },
+  "arena.announce.uk.taken_lead": {
+    "sounds": [
+      "arena/announce/uk/taken_lead"
+    ],
+    "subtitle": "taken_lead"
+  },
+  "arena.announce.uk.tied_lead": {
+    "sounds": [
+      "arena/announce/uk/tied_lead"
+    ],
+    "subtitle": "tied_lead"
+  },
+  "arena.announce.uk.three": {
+    "sounds": [
+      "arena/announce/uk/three"
+    ],
+    "subtitle": "three"
+  },
+  "arena.announce.uk.two": {
+    "sounds": [
+      "arena/announce/uk/two"
+    ],
+    "subtitle": "two"
+  },
   "arena.weapon.am_pick": {
     "sounds": [
       "arena/weapon/am_pick"
