@@ -311,6 +311,84 @@
     ],
     "subtitle": "two"
   },
+  "arena.announce.pt.1_minute": {
+    "sounds": [
+      "arena/announce/pt/1_minute"
+    ],
+    "subtitle": "1_minute"
+  },
+  "arena.announce.pt.5_minute": {
+    "sounds": [
+      "arena/announce/pt/5_minute"
+    ],
+    "subtitle": "5_minute"
+  },
+  "arena.announce.pt.excellent": {
+    "sounds": [
+      "arena/announce/pt/excellent"
+    ],
+    "subtitle": "excellent"
+  },
+  "arena.announce.pt.fight": {
+    "sounds": [
+      "arena/announce/pt/fight"
+    ],
+    "subtitle": "fight"
+  },
+  "arena.announce.pt.holyshit": {
+    "sounds": [
+      "arena/announce/pt/holyshit"
+    ],
+    "subtitle": "holyshit"
+  },
+  "arena.announce.pt.humiliation": {
+    "sounds": [
+      "arena/announce/pt/humiliation"
+    ],
+    "subtitle": "humiliation"
+  },
+  "arena.announce.pt.impressive": {
+    "sounds": [
+      "arena/announce/pt/impressive"
+    ],
+    "subtitle": "impressive"
+  },
+  "arena.announce.pt.lostlead": {
+    "sounds": [
+      "arena/announce/pt/lostlead"
+    ],
+    "subtitle": "lostlead"
+  },
+  "arena.announce.pt.one": {
+    "sounds": [
+      "arena/announce/pt/one"
+    ],
+    "subtitle": "one"
+  },
+  "arena.announce.pt.taken_lead": {
+    "sounds": [
+      "arena/announce/pt/taken_lead"
+    ],
+    "subtitle": "taken_lead"
+  },
+  "arena.announce.pt.tied_lead": {
+    "sounds": [
+      "arena/announce/pt/tied_lead"
+    ],
+    "subtitle": "tied_lead"
+  },
+  "arena.announce.pt.three": {
+    "sounds": [
+      "arena/announce/pt/three"
+    ],
+    "subtitle": "three"
+  },
+  "arena.announce.pt.two": {
+    "sounds": [
+      "arena/announce/pt/two"
+    ],
+    "subtitle": "two"
+  },
   "arena.weapon.am_pick": {
     "sounds": [
       "arena/weapon/am_pick"
