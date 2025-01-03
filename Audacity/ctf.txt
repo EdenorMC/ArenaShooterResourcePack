@@ -1,0 +1,39 @@
+en
+
+your_flag_returned	Your flag returned
+enemy_flag_returned	Enemy flag returned
+your_flag_taken		Your flag taken
+enemy_flag_taken	Enemy flag takenr
+your_team_scored	Your team scores
+enemy_team_scored	Enemy team scores
+
+et
+
+your_flag_returned	Teie lipp on taastatud
+enemy_flag_returned	Vastase lipp on taastatud
+your_flag_taken		Teie lipp on röövitud
+enemy_flag_taken	Vastase lipp on röövitud
+your_team_scored	Teie meeskond skooris
+enemy_team_scored	Vastase meeskond skooris
+
+
+ru
+
+your_flag_returned	Ваш флаг возвращен
+enemy_flag_returned	Вражеский флаг возвращен
+your_flag_taken		Ваш флаг украден
+enemy_flag_taken	Вражеский флаг украден
+your_team_scored	Вы получаете очко
+enemy_team_scored	Противник получает очко
+
+
+uk
+
+your_flag_returned	Ваш *прапор по*вернутий
+enemy_flag_returned	*Прапор *ворога по*вернутий
+your_flag_taken		Ваш *прапор *вкрадений
+enemy_flag_taken	*Прапор *ворога *вкрадений
+your_team_scored	Ви о*тримуєте бал
+enemy_team_scored	*Ворог о*тримує бал
+
+
