@@ -77,6 +77,42 @@
     ],
     "subtitle": "two"
   },
+  "arena.announce.en.your_flag_returned": {
+    "sounds": [
+      "arena/announce/en/your_flag_returned"
+    ],
+    "subtitle": "your_flag_returned"
+  },
+  "arena.announce.en.enemy_flag_returned": {
+    "sounds": [
+      "arena/announce/en/enemy_flag_returned"
+    ],
+    "subtitle": "enemy_flag_returned"
+  },
+  "arena.announce.en.your_flag_taken": {
+    "sounds": [
+      "arena/announce/en/your_flag_taken"
+    ],
+    "subtitle": "your_flag_taken"
+  },
+  "arena.announce.en.enemy_flag_taken": {
+    "sounds": [
+      "arena/announce/en/enemy_flag_taken"
+    ],
+    "subtitle": "enemy_flag_taken"
+  },
+  "arena.announce.en.your_team_scored": {
+    "sounds": [
+      "arena/announce/en/your_team_scored"
+    ],
+    "subtitle": "your_team_scored"
+  },
+  "arena.announce.en.enemy_team_scored": {
+    "sounds": [
+      "arena/announce/en/enemy_team_scored"
+    ],
+    "subtitle": "enemy_team_scored"
+  },
   "arena.announce.et.1_minute": {
     "sounds": [
       "arena/announce/et/1_minute"
@@ -154,6 +190,42 @@
       "arena/announce/et/two"
     ],
     "subtitle": "two"
+  },
+  "arena.announce.et.your_flag_returned": {
+    "sounds": [
+      "arena/announce/et/your_flag_returned"
+    ],
+    "subtitle": "your_flag_returned"
+  },
+  "arena.announce.et.enemy_flag_returned": {
+    "sounds": [
+      "arena/announce/et/enemy_flag_returned"
+    ],
+    "subtitle": "enemy_flag_returned"
+  },
+  "arena.announce.et.your_flag_taken": {
+    "sounds": [
+      "arena/announce/et/your_flag_taken"
+    ],
+    "subtitle": "your_flag_taken"
+  },
+  "arena.announce.et.enemy_flag_taken": {
+    "sounds": [
+      "arena/announce/et/enemy_flag_taken"
+    ],
+    "subtitle": "enemy_flag_taken"
+  },
+  "arena.announce.et.your_team_scored": {
+    "sounds": [
+      "arena/announce/et/your_team_scored"
+    ],
+    "subtitle": "your_team_scored"
+  },
+  "arena.announce.et.enemy_team_scored": {
+    "sounds": [
+      "arena/announce/et/enemy_team_scored"
+    ],
+    "subtitle": "enemy_team_scored"
   },
   "arena.announce.ru.1_minute": {
     "sounds": [
@@ -233,6 +305,42 @@
     ],
     "subtitle": "two"
   },
+  "arena.announce.ru.your_flag_returned": {
+    "sounds": [
+      "arena/announce/ru/your_flag_returned"
+    ],
+    "subtitle": "your_flag_returned"
+  },
+  "arena.announce.ru.enemy_flag_returned": {
+    "sounds": [
+      "arena/announce/ru/enemy_flag_returned"
+    ],
+    "subtitle": "enemy_flag_returned"
+  },
+  "arena.announce.ru.your_flag_taken": {
+    "sounds": [
+      "arena/announce/ru/your_flag_taken"
+    ],
+    "subtitle": "your_flag_taken"
+  },
+  "arena.announce.ru.enemy_flag_taken": {
+    "sounds": [
+      "arena/announce/ru/enemy_flag_taken"
+    ],
+    "subtitle": "enemy_flag_taken"
+  },
+  "arena.announce.ru.your_team_scored": {
+    "sounds": [
+      "arena/announce/ru/your_team_scored"
+    ],
+    "subtitle": "your_team_scored"
+  },
+  "arena.announce.ru.enemy_team_scored": {
+    "sounds": [
+      "arena/announce/ru/enemy_team_scored"
+    ],
+    "subtitle": "enemy_team_scored"
+  },
   "arena.announce.uk.1_minute": {
     "sounds": [
       "arena/announce/uk/1_minute"
@@ -310,6 +418,42 @@
       "arena/announce/uk/two"
     ],
     "subtitle": "two"
+  },
+  "arena.announce.uk.your_flag_returned": {
+    "sounds": [
+      "arena/announce/uk/your_flag_returned"
+    ],
+    "subtitle": "your_flag_returned"
+  },
+  "arena.announce.uk.enemy_flag_returned": {
+    "sounds": [
+      "arena/announce/uk/enemy_flag_returned"
+    ],
+    "subtitle": "enemy_flag_returned"
+  },
+  "arena.announce.uk.your_flag_taken": {
+    "sounds": [
+      "arena/announce/uk/your_flag_taken"
+    ],
+    "subtitle": "your_flag_taken"
+  },
+  "arena.announce.uk.enemy_flag_taken": {
+    "sounds": [
+      "arena/announce/uk/enemy_flag_taken"
+    ],
+    "subtitle": "enemy_flag_taken"
+  },
+  "arena.announce.uk.your_team_scored": {
+    "sounds": [
+      "arena/announce/uk/your_team_scored"
+    ],
+    "subtitle": "your_team_scored"
+  },
+  "arena.announce.uk.enemy_team_scored": {
+    "sounds": [
+      "arena/announce/uk/enemy_team_scored"
+    ],
+    "subtitle": "enemy_team_scored"
   },
   "arena.announce.pt.1_minute": {
     "sounds": [
