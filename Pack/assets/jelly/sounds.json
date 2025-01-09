@@ -5,15 +5,183 @@
     ],
     "subtitle": "1_minute"
   },
+  "arena.announce.et.1_minute": {
+    "sounds": [
+      "arena/announce/et/1_minute"
+    ],
+    "subtitle": "1_minute"
+  },
+  "arena.announce.pt.1_minute": {
+    "sounds": [
+      "arena/announce/pt/1_minute"
+    ],
+    "subtitle": "1_minute"
+  },
+  "arena.announce.ru.1_minute": {
+    "sounds": [
+      "arena/announce/ru/1_minute"
+    ],
+    "subtitle": "1_minute"
+  },
+  "arena.announce.uk.1_minute": {
+    "sounds": [
+      "arena/announce/uk/1_minute"
+    ],
+    "subtitle": "1_minute"
+  },
   "arena.announce.en.5_minute": {
     "sounds": [
       "arena/announce/en/5_minute"
     ],
     "subtitle": "5_minute"
   },
+  "arena.announce.et.5_minute": {
+    "sounds": [
+      "arena/announce/et/5_minute"
+    ],
+    "subtitle": "5_minute"
+  },
+  "arena.announce.pt.5_minute": {
+    "sounds": [
+      "arena/announce/pt/5_minute"
+    ],
+    "subtitle": "5_minute"
+  },
+  "arena.announce.ru.5_minute": {
+    "sounds": [
+      "arena/announce/ru/5_minute"
+    ],
+    "subtitle": "5_minute"
+  },
+  "arena.announce.uk.5_minute": {
+    "sounds": [
+      "arena/announce/uk/5_minute"
+    ],
+    "subtitle": "5_minute"
+  },
+  "arena.weapon.am_pick": {
+    "sounds": [
+      "arena/weapon/am_pick"
+    ],
+    "subtitle": "am_pick"
+  },
+  "arena.weapon.bfg_fire": {
+    "sounds": [
+      "arena/weapon/bfg_fire"
+    ],
+    "subtitle": "bfg_fire"
+  },
+  "arena.weapon.bfg_hit": {
+    "sounds": [
+      "arena/weapon/bfg_hit"
+    ],
+    "subtitle": "bfg_hit"
+  },
+  "arena.weapon.bu_pick": {
+    "sounds": [
+      "arena/weapon/bu_pick"
+    ],
+    "subtitle": "bu_pick"
+  },
+  "arena.announce.en.enemy_flag_returned": {
+    "sounds": [
+      "arena/announce/en/enemy_flag_returned"
+    ],
+    "subtitle": "enemy_flag_returned"
+  },
+  "arena.announce.et.enemy_flag_returned": {
+    "sounds": [
+      "arena/announce/et/enemy_flag_returned"
+    ],
+    "subtitle": "enemy_flag_returned"
+  },
+  "arena.announce.ru.enemy_flag_returned": {
+    "sounds": [
+      "arena/announce/ru/enemy_flag_returned"
+    ],
+    "subtitle": "enemy_flag_returned"
+  },
+  "arena.announce.uk.enemy_flag_returned": {
+    "sounds": [
+      "arena/announce/uk/enemy_flag_returned"
+    ],
+    "subtitle": "enemy_flag_returned"
+  },
+  "arena.announce.en.enemy_flag_taken": {
+    "sounds": [
+      "arena/announce/en/enemy_flag_taken"
+    ],
+    "subtitle": "enemy_flag_taken"
+  },
+  "arena.announce.et.enemy_flag_taken": {
+    "sounds": [
+      "arena/announce/et/enemy_flag_taken"
+    ],
+    "subtitle": "enemy_flag_taken"
+  },
+  "arena.announce.ru.enemy_flag_taken": {
+    "sounds": [
+      "arena/announce/ru/enemy_flag_taken"
+    ],
+    "subtitle": "enemy_flag_taken"
+  },
+  "arena.announce.uk.enemy_flag_taken": {
+    "sounds": [
+      "arena/announce/uk/enemy_flag_taken"
+    ],
+    "subtitle": "enemy_flag_taken"
+  },
+  "arena.announce.en.enemy_team_scored": {
+    "sounds": [
+      "arena/announce/en/enemy_team_scored"
+    ],
+    "subtitle": "enemy_team_scored"
+  },
+  "arena.announce.et.enemy_team_scored": {
+    "sounds": [
+      "arena/announce/et/enemy_team_scored"
+    ],
+    "subtitle": "enemy_team_scored"
+  },
+  "arena.announce.ru.enemy_team_scored": {
+    "sounds": [
+      "arena/announce/ru/enemy_team_scored"
+    ],
+    "subtitle": "enemy_team_scored"
+  },
+  "arena.announce.uk.enemy_team_scored": {
+    "sounds": [
+      "arena/announce/uk/enemy_team_scored"
+    ],
+    "subtitle": "enemy_team_scored"
+  },
   "arena.announce.en.excellent": {
     "sounds": [
       "arena/announce/en/excellent"
+    ],
+    "subtitle": "excellent"
+  },
+  "arena.announce.et.excellent": {
+    "sounds": [
+      "arena/announce/et/excellent"
+    ],
+    "subtitle": "excellent"
+  },
+  "arena.announce.pt.excellent": {
+    "sounds": [
+      "arena/announce/pt/excellent"
+    ],
+    "subtitle": "excellent"
+  },
+  "arena.announce.ru.excellent": {
+    "sounds": [
+      "arena/announce/ru/excellent"
+    ],
+    "subtitle": "excellent"
+  },
+  "arena.announce.uk.excellent": {
+    "sounds": [
+      "arena/announce/uk/excellent"
     ],
     "subtitle": "excellent"
   },
@@ -23,9 +191,63 @@
     ],
     "subtitle": "fight"
   },
+  "arena.announce.et.fight": {
+    "sounds": [
+      "arena/announce/et/fight"
+    ],
+    "subtitle": "fight"
+  },
+  "arena.announce.pt.fight": {
+    "sounds": [
+      "arena/announce/pt/fight"
+    ],
+    "subtitle": "fight"
+  },
+  "arena.announce.ru.fight": {
+    "sounds": [
+      "arena/announce/ru/fight"
+    ],
+    "subtitle": "fight"
+  },
+  "arena.announce.uk.fight": {
+    "sounds": [
+      "arena/announce/uk/fight"
+    ],
+    "subtitle": "fight"
+  },
+  "arena.weapon.hit": {
+    "sounds": [
+      "arena/weapon/hit"
+    ],
+    "subtitle": "hit"
+  },
   "arena.announce.en.holyshit": {
     "sounds": [
       "arena/announce/en/holyshit"
+    ],
+    "subtitle": "holyshit"
+  },
+  "arena.announce.et.holyshit": {
+    "sounds": [
+      "arena/announce/et/holyshit"
+    ],
+    "subtitle": "holyshit"
+  },
+  "arena.announce.pt.holyshit": {
+    "sounds": [
+      "arena/announce/pt/holyshit"
+    ],
+    "subtitle": "holyshit"
+  },
+  "arena.announce.ru.holyshit": {
+    "sounds": [
+      "arena/announce/ru/holyshit"
+    ],
+    "subtitle": "holyshit"
+  },
+  "arena.announce.uk.holyshit": {
+    "sounds": [
+      "arena/announce/uk/holyshit"
     ],
     "subtitle": "holyshit"
   },
@@ -35,455 +257,11 @@
     ],
     "subtitle": "humiliation"
   },
-  "arena.announce.en.impressive": {
-    "sounds": [
-      "arena/announce/en/impressive"
-    ],
-    "subtitle": "impressive"
-  },
-  "arena.announce.en.lostlead": {
-    "sounds": [
-      "arena/announce/en/lostlead"
-    ],
-    "subtitle": "lostlead"
-  },
-  "arena.announce.en.one": {
-    "sounds": [
-      "arena/announce/en/one"
-    ],
-    "subtitle": "one"
-  },
-  "arena.announce.en.taken_lead": {
-    "sounds": [
-      "arena/announce/en/taken_lead"
-    ],
-    "subtitle": "taken_lead"
-  },
-  "arena.announce.en.tied_lead": {
-    "sounds": [
-      "arena/announce/en/tied_lead"
-    ],
-    "subtitle": "tied_lead"
-  },
-  "arena.announce.en.three": {
-    "sounds": [
-      "arena/announce/en/three"
-    ],
-    "subtitle": "three"
-  },
-  "arena.announce.en.two": {
-    "sounds": [
-      "arena/announce/en/two"
-    ],
-    "subtitle": "two"
-  },
-  "arena.announce.en.your_flag_returned": {
-    "sounds": [
-      "arena/announce/en/your_flag_returned"
-    ],
-    "subtitle": "your_flag_returned"
-  },
-  "arena.announce.en.enemy_flag_returned": {
-    "sounds": [
-      "arena/announce/en/enemy_flag_returned"
-    ],
-    "subtitle": "enemy_flag_returned"
-  },
-  "arena.announce.en.your_flag_taken": {
-    "sounds": [
-      "arena/announce/en/your_flag_taken"
-    ],
-    "subtitle": "your_flag_taken"
-  },
-  "arena.announce.en.enemy_flag_taken": {
-    "sounds": [
-      "arena/announce/en/enemy_flag_taken"
-    ],
-    "subtitle": "enemy_flag_taken"
-  },
-  "arena.announce.en.your_team_scored": {
-    "sounds": [
-      "arena/announce/en/your_team_scored"
-    ],
-    "subtitle": "your_team_scored"
-  },
-  "arena.announce.en.enemy_team_scored": {
-    "sounds": [
-      "arena/announce/en/enemy_team_scored"
-    ],
-    "subtitle": "enemy_team_scored"
-  },
-  "arena.announce.et.1_minute": {
-    "sounds": [
-      "arena/announce/et/1_minute"
-    ],
-    "subtitle": "1_minute"
-  },
-  "arena.announce.et.5_minute": {
-    "sounds": [
-      "arena/announce/et/5_minute"
-    ],
-    "subtitle": "5_minute"
-  },
-  "arena.announce.et.excellent": {
-    "sounds": [
-      "arena/announce/et/excellent"
-    ],
-    "subtitle": "excellent"
-  },
-  "arena.announce.et.fight": {
-    "sounds": [
-      "arena/announce/et/fight"
-    ],
-    "subtitle": "fight"
-  },
-  "arena.announce.et.holyshit": {
-    "sounds": [
-      "arena/announce/et/holyshit"
-    ],
-    "subtitle": "holyshit"
-  },
   "arena.announce.et.humiliation": {
     "sounds": [
       "arena/announce/et/humiliation"
     ],
     "subtitle": "humiliation"
-  },
-  "arena.announce.et.impressive": {
-    "sounds": [
-      "arena/announce/et/impressive"
-    ],
-    "subtitle": "impressive"
-  },
-  "arena.announce.et.lostlead": {
-    "sounds": [
-      "arena/announce/et/lostlead"
-    ],
-    "subtitle": "lostlead"
-  },
-  "arena.announce.et.one": {
-    "sounds": [
-      "arena/announce/et/one"
-    ],
-    "subtitle": "one"
-  },
-  "arena.announce.et.taken_lead": {
-    "sounds": [
-      "arena/announce/et/taken_lead"
-    ],
-    "subtitle": "taken_lead"
-  },
-  "arena.announce.et.tied_lead": {
-    "sounds": [
-      "arena/announce/et/tied_lead"
-    ],
-    "subtitle": "tied_lead"
-  },
-  "arena.announce.et.three": {
-    "sounds": [
-      "arena/announce/et/three"
-    ],
-    "subtitle": "three"
-  },
-  "arena.announce.et.two": {
-    "sounds": [
-      "arena/announce/et/two"
-    ],
-    "subtitle": "two"
-  },
-  "arena.announce.et.your_flag_returned": {
-    "sounds": [
-      "arena/announce/et/your_flag_returned"
-    ],
-    "subtitle": "your_flag_returned"
-  },
-  "arena.announce.et.enemy_flag_returned": {
-    "sounds": [
-      "arena/announce/et/enemy_flag_returned"
-    ],
-    "subtitle": "enemy_flag_returned"
-  },
-  "arena.announce.et.your_flag_taken": {
-    "sounds": [
-      "arena/announce/et/your_flag_taken"
-    ],
-    "subtitle": "your_flag_taken"
-  },
-  "arena.announce.et.enemy_flag_taken": {
-    "sounds": [
-      "arena/announce/et/enemy_flag_taken"
-    ],
-    "subtitle": "enemy_flag_taken"
-  },
-  "arena.announce.et.your_team_scored": {
-    "sounds": [
-      "arena/announce/et/your_team_scored"
-    ],
-    "subtitle": "your_team_scored"
-  },
-  "arena.announce.et.enemy_team_scored": {
-    "sounds": [
-      "arena/announce/et/enemy_team_scored"
-    ],
-    "subtitle": "enemy_team_scored"
-  },
-  "arena.announce.ru.1_minute": {
-    "sounds": [
-      "arena/announce/ru/1_minute"
-    ],
-    "subtitle": "1_minute"
-  },
-  "arena.announce.ru.5_minute": {
-    "sounds": [
-      "arena/announce/ru/5_minute"
-    ],
-    "subtitle": "5_minute"
-  },
-  "arena.announce.ru.excellent": {
-    "sounds": [
-      "arena/announce/ru/excellent"
-    ],
-    "subtitle": "excellent"
-  },
-  "arena.announce.ru.fight": {
-    "sounds": [
-      "arena/announce/ru/fight"
-    ],
-    "subtitle": "fight"
-  },
-  "arena.announce.ru.holyshit": {
-    "sounds": [
-      "arena/announce/ru/holyshit"
-    ],
-    "subtitle": "holyshit"
-  },
-  "arena.announce.ru.humiliation": {
-    "sounds": [
-      "arena/announce/ru/humiliation"
-    ],
-    "subtitle": "humiliation"
-  },
-  "arena.announce.ru.impressive": {
-    "sounds": [
-      "arena/announce/ru/impressive"
-    ],
-    "subtitle": "impressive"
-  },
-  "arena.announce.ru.lostlead": {
-    "sounds": [
-      "arena/announce/ru/lostlead"
-    ],
-    "subtitle": "lostlead"
-  },
-  "arena.announce.ru.one": {
-    "sounds": [
-      "arena/announce/ru/one"
-    ],
-    "subtitle": "one"
-  },
-  "arena.announce.ru.taken_lead": {
-    "sounds": [
-      "arena/announce/ru/taken_lead"
-    ],
-    "subtitle": "taken_lead"
-  },
-  "arena.announce.ru.tied_lead": {
-    "sounds": [
-      "arena/announce/ru/tied_lead"
-    ],
-    "subtitle": "tied_lead"
-  },
-  "arena.announce.ru.three": {
-    "sounds": [
-      "arena/announce/ru/three"
-    ],
-    "subtitle": "three"
-  },
-  "arena.announce.ru.two": {
-    "sounds": [
-      "arena/announce/ru/two"
-    ],
-    "subtitle": "two"
-  },
-  "arena.announce.ru.your_flag_returned": {
-    "sounds": [
-      "arena/announce/ru/your_flag_returned"
-    ],
-    "subtitle": "your_flag_returned"
-  },
-  "arena.announce.ru.enemy_flag_returned": {
-    "sounds": [
-      "arena/announce/ru/enemy_flag_returned"
-    ],
-    "subtitle": "enemy_flag_returned"
-  },
-  "arena.announce.ru.your_flag_taken": {
-    "sounds": [
-      "arena/announce/ru/your_flag_taken"
-    ],
-    "subtitle": "your_flag_taken"
-  },
-  "arena.announce.ru.enemy_flag_taken": {
-    "sounds": [
-      "arena/announce/ru/enemy_flag_taken"
-    ],
-    "subtitle": "enemy_flag_taken"
-  },
-  "arena.announce.ru.your_team_scored": {
-    "sounds": [
-      "arena/announce/ru/your_team_scored"
-    ],
-    "subtitle": "your_team_scored"
-  },
-  "arena.announce.ru.enemy_team_scored": {
-    "sounds": [
-      "arena/announce/ru/enemy_team_scored"
-    ],
-    "subtitle": "enemy_team_scored"
-  },
-  "arena.announce.uk.1_minute": {
-    "sounds": [
-      "arena/announce/uk/1_minute"
-    ],
-    "subtitle": "1_minute"
-  },
-  "arena.announce.uk.5_minute": {
-    "sounds": [
-      "arena/announce/uk/5_minute"
-    ],
-    "subtitle": "5_minute"
-  },
-  "arena.announce.uk.excellent": {
-    "sounds": [
-      "arena/announce/uk/excellent"
-    ],
-    "subtitle": "excellent"
-  },
-  "arena.announce.uk.fight": {
-    "sounds": [
-      "arena/announce/uk/fight"
-    ],
-    "subtitle": "fight"
-  },
-  "arena.announce.uk.holyshit": {
-    "sounds": [
-      "arena/announce/uk/holyshit"
-    ],
-    "subtitle": "holyshit"
-  },
-  "arena.announce.uk.humiliation": {
-    "sounds": [
-      "arena/announce/uk/humiliation"
-    ],
-    "subtitle": "humiliation"
-  },
-  "arena.announce.uk.impressive": {
-    "sounds": [
-      "arena/announce/uk/impressive"
-    ],
-    "subtitle": "impressive"
-  },
-  "arena.announce.uk.lostlead": {
-    "sounds": [
-      "arena/announce/uk/lostlead"
-    ],
-    "subtitle": "lostlead"
-  },
-  "arena.announce.uk.one": {
-    "sounds": [
-      "arena/announce/uk/one"
-    ],
-    "subtitle": "one"
-  },
-  "arena.announce.uk.taken_lead": {
-    "sounds": [
-      "arena/announce/uk/taken_lead"
-    ],
-    "subtitle": "taken_lead"
-  },
-  "arena.announce.uk.tied_lead": {
-    "sounds": [
-      "arena/announce/uk/tied_lead"
-    ],
-    "subtitle": "tied_lead"
-  },
-  "arena.announce.uk.three": {
-    "sounds": [
-      "arena/announce/uk/three"
-    ],
-    "subtitle": "three"
-  },
-  "arena.announce.uk.two": {
-    "sounds": [
-      "arena/announce/uk/two"
-    ],
-    "subtitle": "two"
-  },
-  "arena.announce.uk.your_flag_returned": {
-    "sounds": [
-      "arena/announce/uk/your_flag_returned"
-    ],
-    "subtitle": "your_flag_returned"
-  },
-  "arena.announce.uk.enemy_flag_returned": {
-    "sounds": [
-      "arena/announce/uk/enemy_flag_returned"
-    ],
-    "subtitle": "enemy_flag_returned"
-  },
-  "arena.announce.uk.your_flag_taken": {
-    "sounds": [
-      "arena/announce/uk/your_flag_taken"
-    ],
-    "subtitle": "your_flag_taken"
-  },
-  "arena.announce.uk.enemy_flag_taken": {
-    "sounds": [
-      "arena/announce/uk/enemy_flag_taken"
-    ],
-    "subtitle": "enemy_flag_taken"
-  },
-  "arena.announce.uk.your_team_scored": {
-    "sounds": [
-      "arena/announce/uk/your_team_scored"
-    ],
-    "subtitle": "your_team_scored"
-  },
-  "arena.announce.uk.enemy_team_scored": {
-    "sounds": [
-      "arena/announce/uk/enemy_team_scored"
-    ],
-    "subtitle": "enemy_team_scored"
-  },
-  "arena.announce.pt.1_minute": {
-    "sounds": [
-      "arena/announce/pt/1_minute"
-    ],
-    "subtitle": "1_minute"
-  },
-  "arena.announce.pt.5_minute": {
-    "sounds": [
-      "arena/announce/pt/5_minute"
-    ],
-    "subtitle": "5_minute"
-  },
-  "arena.announce.pt.excellent": {
-    "sounds": [
-      "arena/announce/pt/excellent"
-    ],
-    "subtitle": "excellent"
-  },
-  "arena.announce.pt.fight": {
-    "sounds": [
-      "arena/announce/pt/fight"
-    ],
-    "subtitle": "fight"
-  },
-  "arena.announce.pt.holyshit": {
-    "sounds": [
-      "arena/announce/pt/holyshit"
-    ],
-    "subtitle": "holyshit"
   },
   "arena.announce.pt.humiliation": {
     "sounds": [
@@ -491,11 +269,65 @@
     ],
     "subtitle": "humiliation"
   },
+  "arena.announce.ru.humiliation": {
+    "sounds": [
+      "arena/announce/ru/humiliation"
+    ],
+    "subtitle": "humiliation"
+  },
+  "arena.announce.uk.humiliation": {
+    "sounds": [
+      "arena/announce/uk/humiliation"
+    ],
+    "subtitle": "humiliation"
+  },
+  "arena.announce.en.impressive": {
+    "sounds": [
+      "arena/announce/en/impressive"
+    ],
+    "subtitle": "impressive"
+  },
+  "arena.announce.et.impressive": {
+    "sounds": [
+      "arena/announce/et/impressive"
+    ],
+    "subtitle": "impressive"
+  },
   "arena.announce.pt.impressive": {
     "sounds": [
       "arena/announce/pt/impressive"
     ],
     "subtitle": "impressive"
+  },
+  "arena.announce.ru.impressive": {
+    "sounds": [
+      "arena/announce/ru/impressive"
+    ],
+    "subtitle": "impressive"
+  },
+  "arena.announce.uk.impressive": {
+    "sounds": [
+      "arena/announce/uk/impressive"
+    ],
+    "subtitle": "impressive"
+  },
+  "arena.weapon.lg_fire": {
+    "sounds": [
+      "arena/weapon/lg_fire"
+    ],
+    "subtitle": "lg_fire"
+  },
+  "arena.announce.en.lostlead": {
+    "sounds": [
+      "arena/announce/en/lostlead"
+    ],
+    "subtitle": "lostlead"
+  },
+  "arena.announce.et.lostlead": {
+    "sounds": [
+      "arena/announce/et/lostlead"
+    ],
+    "subtitle": "lostlead"
   },
   "arena.announce.pt.lostlead": {
     "sounds": [
@@ -503,71 +335,17 @@
     ],
     "subtitle": "lostlead"
   },
-  "arena.announce.pt.one": {
+  "arena.announce.ru.lostlead": {
     "sounds": [
-      "arena/announce/pt/one"
+      "arena/announce/ru/lostlead"
     ],
-    "subtitle": "one"
+    "subtitle": "lostlead"
   },
-  "arena.announce.pt.taken_lead": {
+  "arena.announce.uk.lostlead": {
     "sounds": [
-      "arena/announce/pt/taken_lead"
+      "arena/announce/uk/lostlead"
     ],
-    "subtitle": "taken_lead"
-  },
-  "arena.announce.pt.tied_lead": {
-    "sounds": [
-      "arena/announce/pt/tied_lead"
-    ],
-    "subtitle": "tied_lead"
-  },
-  "arena.announce.pt.three": {
-    "sounds": [
-      "arena/announce/pt/three"
-    ],
-    "subtitle": "three"
-  },
-  "arena.announce.pt.two": {
-    "sounds": [
-      "arena/announce/pt/two"
-    ],
-    "subtitle": "two"
-  },
-  "arena.weapon.am_pick": {
-    "sounds": [
-      "arena/weapon/am_pick"
-    ],
-    "subtitle": "ammo pickup"
-  },
-  "arena.weapon.bu_pick": {
-    "sounds": [
-      "arena/weapon/bu_pick"
-    ],
-    "subtitle": "buff pickup"
-  },
-  "arena.weapon.we_pick": {
-    "sounds": [
-      "arena/weapon/we_pick"
-    ],
-    "subtitle": "weapon pickup"
-  },
-  "arena.weapon.protect": {
-    "sounds": [
-      "arena/weapon/protect"
-    ],
-    "subtitle": "major buff pickup"
-  },
-  "arena.weapon.hit": {
-    "sounds": [
-      "arena/weapon/hit"
-    ],
-    "subtitle": "hitsound"
-  },
-  "arena.weapon.noammo": {
-    "sounds": [
-      "arena/weapon/noammo"
-    ],
-    "subtitle": "noammo"
+    "subtitle": "lostlead"
   },
   "arena.weapon.machine_fire": {
     "sounds": [
@@ -575,29 +353,47 @@
     ],
     "subtitle": "machine_fire"
   },
-  "arena.weapon.rail_fire": {
+  "arena.weapon.noammo": {
     "sounds": [
-      "arena/weapon/rail_fire"
+      "arena/weapon/noammo"
     ],
-    "subtitle": "rail_fire"
+    "subtitle": "noammo"
   },
-  "arena.weapon.rocket_fire": {
+  "arena.announce.en.one": {
     "sounds": [
-      "arena/weapon/rocket_fire"
+      "arena/announce/en/one"
     ],
-    "subtitle": "rocket_fire"
+    "subtitle": "one"
   },
-  "arena.weapon.rocket_det": {
+  "arena.announce.et.one": {
     "sounds": [
-      "arena/weapon/rocket_det"
+      "arena/announce/et/one"
     ],
-    "subtitle": "rocket_det"
+    "subtitle": "one"
   },
-  "arena.weapon.ssg_fire": {
+  "arena.announce.pt.one": {
     "sounds": [
-      "arena/weapon/ssg_fire"
+      "arena/announce/pt/one"
     ],
-    "subtitle": "ssg_fire"
+    "subtitle": "one"
+  },
+  "arena.announce.ru.one": {
+    "sounds": [
+      "arena/announce/ru/one"
+    ],
+    "subtitle": "one"
+  },
+  "arena.announce.uk.one": {
+    "sounds": [
+      "arena/announce/uk/one"
+    ],
+    "subtitle": "one"
+  },
+  "arena.misc.pad": {
+    "sounds": [
+      "arena/misc/pad"
+    ],
+    "subtitle": "pad"
   },
   "arena.weapon.plasma_fire": {
     "sounds": [
@@ -605,34 +401,238 @@
     ],
     "subtitle": "plasma_fire"
   },
-  "arena.weapon.lg_fire": {
-  "sounds": [
-    "arena/weapon/lg_fire"
-  ],
-  "subtitle": "lg_fire"
-  },
   "arena.weapon.plasma_hit": {
     "sounds": [
       "arena/weapon/plasma_hit"
     ],
     "subtitle": "plasma_hit"
   },
-  "arena.weapon.bfg_fire": {
-  "sounds": [
-    "arena/weapon/bfg_fire"
-  ],
-  "subtitle": "bfg_fire"
-  },
-  "arena.weapon.bfg_hit": {
+  "arena.weapon.protect": {
     "sounds": [
-      "arena/weapon/bfg_hit"
+      "arena/weapon/protect"
     ],
-    "subtitle": "bfg_hit"
+    "subtitle": "protect"
   },
-  "arena.misc.pad": {
+  "arena.weapon.rail_fire": {
     "sounds": [
-      "arena/misc/pad"
+      "arena/weapon/rail_fire"
     ],
-    "subtitle": "pad"
+    "subtitle": "rail_fire"
+  },
+  "arena.weapon.rocket_det": {
+    "sounds": [
+      "arena/weapon/rocket_det"
+    ],
+    "subtitle": "rocket_det"
+  },
+  "arena.weapon.rocket_fire": {
+    "sounds": [
+      "arena/weapon/rocket_fire"
+    ],
+    "subtitle": "rocket_fire"
+  },
+  "arena.weapon.ssg_fire": {
+    "sounds": [
+      "arena/weapon/ssg_fire"
+    ],
+    "subtitle": "ssg_fire"
+  },
+  "arena.announce.en.taken_lead": {
+    "sounds": [
+      "arena/announce/en/taken_lead"
+    ],
+    "subtitle": "taken_lead"
+  },
+  "arena.announce.et.taken_lead": {
+    "sounds": [
+      "arena/announce/et/taken_lead"
+    ],
+    "subtitle": "taken_lead"
+  },
+  "arena.announce.pt.taken_lead": {
+    "sounds": [
+      "arena/announce/pt/taken_lead"
+    ],
+    "subtitle": "taken_lead"
+  },
+  "arena.announce.ru.taken_lead": {
+    "sounds": [
+      "arena/announce/ru/taken_lead"
+    ],
+    "subtitle": "taken_lead"
+  },
+  "arena.announce.uk.taken_lead": {
+    "sounds": [
+      "arena/announce/uk/taken_lead"
+    ],
+    "subtitle": "taken_lead"
+  },
+  "arena.announce.en.three": {
+    "sounds": [
+      "arena/announce/en/three"
+    ],
+    "subtitle": "three"
+  },
+  "arena.announce.et.three": {
+    "sounds": [
+      "arena/announce/et/three"
+    ],
+    "subtitle": "three"
+  },
+  "arena.announce.pt.three": {
+    "sounds": [
+      "arena/announce/pt/three"
+    ],
+    "subtitle": "three"
+  },
+  "arena.announce.ru.three": {
+    "sounds": [
+      "arena/announce/ru/three"
+    ],
+    "subtitle": "three"
+  },
+  "arena.announce.uk.three": {
+    "sounds": [
+      "arena/announce/uk/three"
+    ],
+    "subtitle": "three"
+  },
+  "arena.announce.en.tied_lead": {
+    "sounds": [
+      "arena/announce/en/tied_lead"
+    ],
+    "subtitle": "tied_lead"
+  },
+  "arena.announce.et.tied_lead": {
+    "sounds": [
+      "arena/announce/et/tied_lead"
+    ],
+    "subtitle": "tied_lead"
+  },
+  "arena.announce.pt.tied_lead": {
+    "sounds": [
+      "arena/announce/pt/tied_lead"
+    ],
+    "subtitle": "tied_lead"
+  },
+  "arena.announce.ru.tied_lead": {
+    "sounds": [
+      "arena/announce/ru/tied_lead"
+    ],
+    "subtitle": "tied_lead"
+  },
+  "arena.announce.uk.tied_lead": {
+    "sounds": [
+      "arena/announce/uk/tied_lead"
+    ],
+    "subtitle": "tied_lead"
+  },
+  "arena.announce.en.two": {
+    "sounds": [
+      "arena/announce/en/two"
+    ],
+    "subtitle": "two"
+  },
+  "arena.announce.et.two": {
+    "sounds": [
+      "arena/announce/et/two"
+    ],
+    "subtitle": "two"
+  },
+  "arena.announce.pt.two": {
+    "sounds": [
+      "arena/announce/pt/two"
+    ],
+    "subtitle": "two"
+  },
+  "arena.announce.ru.two": {
+    "sounds": [
+      "arena/announce/ru/two"
+    ],
+    "subtitle": "two"
+  },
+  "arena.announce.uk.two": {
+    "sounds": [
+      "arena/announce/uk/two"
+    ],
+    "subtitle": "two"
+  },
+  "arena.weapon.we_pick": {
+    "sounds": [
+      "arena/weapon/we_pick"
+    ],
+    "subtitle": "we_pick"
+  },
+  "arena.announce.en.your_flag_returned": {
+    "sounds": [
+      "arena/announce/en/your_flag_returned"
+    ],
+    "subtitle": "your_flag_returned"
+  },
+  "arena.announce.et.your_flag_returned": {
+    "sounds": [
+      "arena/announce/et/your_flag_returned"
+    ],
+    "subtitle": "your_flag_returned"
+  },
+  "arena.announce.ru.your_flag_returned": {
+    "sounds": [
+      "arena/announce/ru/your_flag_returned"
+    ],
+    "subtitle": "your_flag_returned"
+  },
+  "arena.announce.uk.your_flag_returned": {
+    "sounds": [
+      "arena/announce/uk/your_flag_returned"
+    ],
+    "subtitle": "your_flag_returned"
+  },
+  "arena.announce.en.your_flag_taken": {
+    "sounds": [
+      "arena/announce/en/your_flag_taken"
+    ],
+    "subtitle": "your_flag_taken"
+  },
+  "arena.announce.et.your_flag_taken": {
+    "sounds": [
+      "arena/announce/et/your_flag_taken"
+    ],
+    "subtitle": "your_flag_taken"
+  },
+  "arena.announce.ru.your_flag_taken": {
+    "sounds": [
+      "arena/announce/ru/your_flag_taken"
+    ],
+    "subtitle": "your_flag_taken"
+  },
+  "arena.announce.uk.your_flag_taken": {
+    "sounds": [
+      "arena/announce/uk/your_flag_taken"
+    ],
+    "subtitle": "your_flag_taken"
+  },
+  "arena.announce.en.your_team_scored": {
+    "sounds": [
+      "arena/announce/en/your_team_scored"
+    ],
+    "subtitle": "your_team_scored"
+  },
+  "arena.announce.et.your_team_scored": {
+    "sounds": [
+      "arena/announce/et/your_team_scored"
+    ],
+    "subtitle": "your_team_scored"
+  },
+  "arena.announce.ru.your_team_scored": {
+    "sounds": [
+      "arena/announce/ru/your_team_scored"
+    ],
+    "subtitle": "your_team_scored"
+  },
+  "arena.announce.uk.your_team_scored": {
+    "sounds": [
+      "arena/announce/uk/your_team_scored"
+    ],
+    "subtitle": "your_team_scored"
   }
 }
