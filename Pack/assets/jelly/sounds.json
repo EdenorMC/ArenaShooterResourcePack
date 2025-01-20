@@ -95,6 +95,12 @@
     ],
     "subtitle": "enemy_flag_returned"
   },
+  "arena.announce.pt.enemy_flag_returned": {
+    "sounds": [
+      "arena/announce/pt/enemy_flag_returned"
+    ],
+    "subtitle": "enemy_flag_returned"
+  },
   "arena.announce.ru.enemy_flag_returned": {
     "sounds": [
       "arena/announce/ru/enemy_flag_returned"
@@ -119,6 +125,12 @@
     ],
     "subtitle": "enemy_flag_taken"
   },
+  "arena.announce.pt.enemy_flag_taken": {
+    "sounds": [
+      "arena/announce/pt/enemy_flag_taken"
+    ],
+    "subtitle": "enemy_flag_taken"
+  },
   "arena.announce.ru.enemy_flag_taken": {
     "sounds": [
       "arena/announce/ru/enemy_flag_taken"
@@ -140,6 +152,12 @@
   "arena.announce.et.enemy_team_scored": {
     "sounds": [
       "arena/announce/et/enemy_team_scored"
+    ],
+    "subtitle": "enemy_team_scored"
+  },
+  "arena.announce.pt.enemy_team_scored": {
+    "sounds": [
+      "arena/announce/pt/enemy_team_scored"
     ],
     "subtitle": "enemy_team_scored"
   },
@@ -575,6 +593,12 @@
     ],
     "subtitle": "your_flag_returned"
   },
+  "arena.announce.pt.your_flag_returned": {
+    "sounds": [
+      "arena/announce/pt/your_flag_returned"
+    ],
+    "subtitle": "your_flag_returned"
+  },
   "arena.announce.ru.your_flag_returned": {
     "sounds": [
       "arena/announce/ru/your_flag_returned"
@@ -599,6 +623,12 @@
     ],
     "subtitle": "your_flag_taken"
   },
+  "arena.announce.pt.your_flag_taken": {
+    "sounds": [
+      "arena/announce/pt/your_flag_taken"
+    ],
+    "subtitle": "your_flag_taken"
+  },
   "arena.announce.ru.your_flag_taken": {
     "sounds": [
       "arena/announce/ru/your_flag_taken"
@@ -620,6 +650,12 @@
   "arena.announce.et.your_team_scored": {
     "sounds": [
       "arena/announce/et/your_team_scored"
+    ],
+    "subtitle": "your_team_scored"
+  },
+  "arena.announce.pt.your_team_scored": {
+    "sounds": [
+      "arena/announce/pt/your_team_scored"
     ],
     "subtitle": "your_team_scored"
   },

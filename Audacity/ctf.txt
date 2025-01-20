@@ -3,7 +3,7 @@ en
 your_flag_returned	Your flag returned
 enemy_flag_returned	Enemy flag returned
 your_flag_taken		Your flag taken
-enemy_flag_taken	Enemy flag takenr
+enemy_flag_taken	Enemy flag taken
 your_team_scored	Your team scores
 enemy_team_scored	Enemy team scores
 
@@ -36,4 +36,13 @@ enemy_flag_taken	*Прапор *ворога *вкрадений
 your_team_scored	Ви о*тримуєте бал
 enemy_team_scored	*Ворог о*тримує бал
 
+
+pt
+
+your_flag_returned	Sua bandeira foi retomada 	['sua bã'de͡irə 'foj ɾɛto'mada]
+enemy_flag_returned	Bandeira inimiga retomada	[bã'de͡irə ini'miga ɾɛto'mada]
+your_flag_taken		Sua bandeira foi roubada	['sua bã'de͡irə 'foj ɾo͡u'bada]
+enemy_flag_taken	Bandeira inimiga foi roubada	[bã'de͡irə ini'miga 'foj ɾo͡u'bada]
+your_team_scored	Seu time pontuou		['sew 't͡ʃimɛ põtu'ow]
+enemy_team_scored	Time inimigo pontuou		['t͡ʃimɛ ini'migu põtu'ow]
 
