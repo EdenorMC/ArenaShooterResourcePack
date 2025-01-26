@@ -39,10 +39,10 @@ enemy_team_scored	*Ворог о*тримує бал
 
 pt
 
-your_flag_returned	Sua bandeira foi retomada 	['sua bã'de͡irə 'foj ɾɛto'mada]
-enemy_flag_returned	Bandeira inimiga retomada	[bã'de͡irə ini'miga ɾɛto'mada]
-your_flag_taken		Sua bandeira foi roubada	['sua bã'de͡irə 'foj ɾo͡u'bada]
-enemy_flag_taken	Bandeira inimiga foi roubada	[bã'de͡irə ini'miga 'foj ɾo͡u'bada]
-your_team_scored	Seu time pontuou		['sew 't͡ʃimɛ põtu'ow]
+your_flag_returned	Sua bandeira foi retomada 	['sua bã'de͡irə 'foj χɛto'mada]
+enemy_flag_returned	Bandeira inimiga retomada	[bã'de͡irə ini'miga χɛto'mada]
+your_flag_taken		Sua bandeira foi roubada	['sua bã'de͡irə 'foj χo͡u'bada]
+enemy_flag_taken	Bandeira inimiga foi roubada	[bã'de͡irə ini'miga 'foj χo͡u'bada]
+your_team_scored	Seu time pontuou		['sew 't͡ʃimi põtu'ow]
 enemy_team_scored	Time inimigo pontuou		['t͡ʃimɛ ini'migu põtu'ow]
 
