@@ -1,4 +1,5 @@
 import java.io.File;
+import java.io.PrintStream;
 import java.util.*;
 import java.io.FileInputStream;
 import java.io.IOException;
@@ -12,7 +13,19 @@ public class AnnouncerFilesLengthMeasurer {
   private static final List<File> oggFiles = new ArrayList<>();
   private static final SortedMap<File, Long> lengthMap = new TreeMap<>(Comparator.comparing(f -> f.getName() + f.getParentFile().getName()));
 
+  private static PrintStream stream;
+  private static String header;
+  private static String fileHeader;
+  private static String fileLine;
+  private static String lastLine;
+  private static String fileFooter;
+  private static String lastFooter;
+  private static String footer;
+  private static boolean capitalizeFileName;
+
   public static void main(String[] args) {
+    setup();
+
     validate();
 
     scan(scanRoot);
@@ -22,16 +35,71 @@ public class AnnouncerFilesLengthMeasurer {
     printFileLengths();
   }
 
+  private static void setup() {
+    String outputFile = System.getProperty("outputFile");
+    if (outputFile != null) {
+      try {
+        stream = new PrintStream(outputFile);
+      } catch (IOException e) {
+        System.err.println("Error opening output file " + outputFile);
+        e.printStackTrace();
+        System.exit(1);
+      }
+    } else {
+      stream = System.out;
+    }
+
+    String outputFormat = System.getProperty("format", "hardcoded");
+    switch (outputFormat) {
+      case "hardcoded":
+        header     = "Map.ofEntries(\n";
+        fileHeader = "Map.entry(\n  %s,\n    ConstantAnnouncementSkip.builder()\n";
+        fileLine   = "      .fromMillies(%s, %d)\n";
+        lastLine   = fileLine;
+        fileFooter = "      .addGraceTimeToAll()\n      .build()),\n";
+        lastFooter = "      .addGraceTimeToAll()\n      .build()\n";
+        footer     = ");\n";
+        capitalizeFileName = true;
+        break;
+      case "yaml":
+        header     = "skips:\n";
+        fileHeader = "  %s:\n";
+        fileLine   = "    %s: %d\n";
+        lastLine   = fileLine;
+        fileFooter = "";
+        lastFooter = fileFooter;
+        footer     = "";
+        capitalizeFileName = false;
+        break;
+      case "json":
+        header     = "{\n \"skips\": {\n";
+        fileHeader = "    \"%s\": {\n";
+        fileLine   = "      \"%s\": %d,\n";
+        lastLine   = "      \"%s\": %d\n";
+        fileFooter = "    },\n";
+        lastFooter = "    }\n";
+        footer     = "  }\n}\n";
+        break;
+      default:
+        throw new IllegalArgumentException("Unsupported output format: " + outputFormat);
+    }
+  }
+
   private static void printFileLengths() {
     Map<String, List<File>> fileNameGroupByMap = lengthMap.keySet().stream().collect(Collectors.groupingBy(File::getName));
+    stream.printf(header);
+    int mapLen = fileNameGroupByMap.size();
     for (String fileName : fileNameGroupByMap.keySet()) {
-      System.out.printf("%s:%n", fileName);
+      stream.printf(fileHeader, formatFileName(fileName));
+      int varLen = fileNameGroupByMap.get(fileName).size();
       for (File file : fileNameGroupByMap.get(fileName)) {
         String parentName = file.getParentFile().getName().toUpperCase();
         long length = lengthMap.get(file);
-        System.out.printf("  .fromMillies(%s, %d)%n", parentName, length);
+        stream.printf(--varLen == 0 ? lastLine : fileLine, parentName, length);
       }
+      stream.printf(--mapLen == 0 ? lastFooter : fileFooter);
     }
+    stream.printf(footer);
   }
 
   private static void validate() {
@@ -67,13 +135,22 @@ public class AnnouncerFilesLengthMeasurer {
     }
   }
 
+  private static String formatFileName(String fileName) {
+    String formattedFileName = fileName.replace(".ogg", "");
+    if (capitalizeFileName) {
+      formattedFileName = formattedFileName.toUpperCase();
+    }
+    return formattedFileName;
+  }
+
   /**
    * <p>Scans the given directory for ogg files and calculates their duration.</p>
    * @see <a href="https://stackoverflow.com/questions/20794204/how-to-determine-length-of-ogg-file">Source</a>
-   * @param oggFile
+   * @param oggFile the file in question
    * @return duration in milliseconds
-   * @throws IOException
+   * @throws IOException on read errors
    */
+  @SuppressWarnings("ResultOfMethodCallIgnored")
   static double calculateDuration(final File oggFile) throws IOException {
     int rate = -1;
     int length = -1;
@@ -117,7 +194,6 @@ public class AnnouncerFilesLengthMeasurer {
     }
     stream.close();
 
-    double duration = (double) (length*1000) / (double) rate;
-    return duration;
+    return (double) (length*1000) / (double) rate;
   }
 }
