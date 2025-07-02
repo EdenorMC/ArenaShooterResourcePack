@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "settings",
+	"model": {
+          "type": "minecraft:model",
+	  "model": "minecraft:item/settings"
+	}
+      },
+      {
+        "when": "restart",
+	"model": {
+          "type": "minecraft:model",
+	  "model": "minecraft:item/restart"
+	}
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/redstone"
+    }
+  }
+}

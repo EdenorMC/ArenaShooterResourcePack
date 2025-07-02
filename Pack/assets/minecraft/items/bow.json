@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "rocket_launcher",
+	"model": {
+          "type": "minecraft:model",
+	  "model": "item/rocket_launcher"
+	}
+      },
+      {
+        "when": "kitty_cannon",
+	"model": {
+          "type": "minecraft:model",
+	  "model": "item/kitty_cannon"
+	}
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/bow"
+    }
+  }
+}
