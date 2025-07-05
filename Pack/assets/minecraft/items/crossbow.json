@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "railgun",
+	"model": {
+          "type": "minecraft:model",
+	  "model": "item/railgun"
+	}
+      },
+      {
+        "when": "bubble_gun",
+	"model": {
+          "type": "minecraft:model",
+	  "model": "item/railgun"
+	}
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/crossbow"
+    }
+  }
+}

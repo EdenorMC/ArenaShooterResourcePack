@@ -1,0 +1,19 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "shotgun",
+	"model": {
+          "type": "minecraft:model",
+	  "model": "item/shotgun"
+	}
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/wooden_pickaxe"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "cases": [
+      {
+        "when": "plasma_gun",
+	"model": {
+          "type": "minecraft:model",
+	  "model": "item/plasma_gun"
+	}
+      },
+      {
+        "when": "slima_gun",
+	"model": {
+          "type": "minecraft:model",
+	  "model": "item/slima_gun"
+	}
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/golden_hoe"
+    }
+  }
+}
