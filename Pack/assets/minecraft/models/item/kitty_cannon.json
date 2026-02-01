@@ -10,7 +10,7 @@
 		"9": "block/iron_block",
 		"12": "block/red_shulker_box",
 		"13": "block/pink_concrete",
-		"15": "jelly:item/cat_1",
+		"15": "jelly:block/cat_1",
 		"particle": "block/nether_wart_block"
 	},
 	"elements": [
