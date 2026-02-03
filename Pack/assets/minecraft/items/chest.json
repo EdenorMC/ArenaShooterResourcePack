@@ -9,6 +9,20 @@
           "type": "minecraft:model",
 	  "model": "minecraft:item/cosmetics"
 	}
+      },
+      {
+        "when": "ammo_box",
+        "model": {
+          "type": "minecraft:model",
+          "model": "jelly:item/box",
+          "tints": [
+            {
+              "type": "minecraft:custom_model_data",
+              "index": 0,
+              "default": [1, 0, 0]
+            }
+          ]
+        }
       }
     ],
     "fallback": {
